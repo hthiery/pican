@@ -1,4 +1,4 @@
-update=14.01.2016 15:44:18
+update=14.01.2016 22:20:22
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,8 +58,8 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=mylib
-LibName31=IC_raspberry
+LibName30=libraries/IC_raspberry
+LibName31=libraries/mylib
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
